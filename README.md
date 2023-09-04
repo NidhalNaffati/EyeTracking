@@ -1,4 +1,4 @@
-# eye
+# eyetracking
 
 ## Project setup
 ```
